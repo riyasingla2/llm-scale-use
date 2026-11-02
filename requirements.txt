@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+matplotlib>=3.8
+requests>=2.31
+pytest>=8
+# white-box only
+torch>=2.2
+transformers>=4.44
+accelerate>=0.33
